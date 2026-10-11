@@ -289,7 +289,3 @@ Contributions and suggestions are welcome.
 3.  Make and test your changes.
 4.  Submit a pull request describing the update.
 
-## License
-
-Add a license file and specify the license here if the project is
-distributed under an open-source license.
